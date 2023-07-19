@@ -1,1 +1,1 @@
-# algorithms-code
+# algorithms
